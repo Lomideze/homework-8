@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework 8</string>
+    <string name="head">Listen to the best \n music everyday \n with <font color='#11CC54'>Hearme</font> now!</string>
+    <string name="get_started">Get Started</string>
+</resources>
